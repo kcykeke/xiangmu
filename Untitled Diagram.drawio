@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T08:27:22.821Z" agent="5.0 (Windows)" etag="5WnTEiEmJwVPjsxEAlrD" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T08:31:03.318Z" agent="5.0 (Windows)" etag="0iSk34EjgajJKKNtxXt6" version="13.5.3" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2522" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
             <mxPoint x="950" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1q58vJU3FzAGv_SneIFp-8" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1q58vJU3FzAGv_SneIFp-8" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1q58vJU3FzAGv_SneIFp-9" value="" style="endArrow=classic;html=1;entryX=0.658;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1q58vJU3FzAGv_SneIFp-10">
@@ -144,6 +144,21 @@
         </mxCell>
         <mxCell id="1q58vJU3FzAGv_SneIFp-22" value="用户3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-441.5" y="-349" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1q58vJU3FzAGv_SneIFp-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-561" y="-512" as="sourcePoint" />
+            <mxPoint x="-561" y="-609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1q58vJU3FzAGv_SneIFp-30" value="" style="endArrow=classic;html=1;entryX=0.564;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.792;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-504.96000000000004" y="-608" as="sourcePoint" />
+            <mxPoint x="-504.9200000000001" y="-510.06999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1q58vJU3FzAGv_SneIFp-31" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
